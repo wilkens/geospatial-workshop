@@ -1,0 +1,157 @@
+"formatted_address","type","tot","lat","lon"
+"Broadway, New York, NY, USA","route",4726,40.8660644,-73.9258900
+"Manhattan, New York, NY, USA","sublocality_level_1",3233,40.7902780,-73.9597220
+"5th Avenue, New York, NY, USA","route",3093,40.7318461,-73.9966758
+"Brooklyn, NY, USA","sublocality_level_1",2174,40.6781784,-73.9441579
+"Harlem, New York, NY, USA","neighborhood",1562,40.8115504,-73.9464769
+"Central Park, New York, NY, USA","park",1105,40.7828647,-73.9653551
+"Chinatown, New York, NY, USA","neighborhood",977,40.7157509,-73.9970307
+"Columbia University, 116th St, New York, NY 10027, USA","university",878,40.8075355,-73.9625727
+"Nassau Street, New York, NY, USA","route",595,40.7095131,-74.0084368
+"Coney Island, Brooklyn, NY, USA","neighborhood",571,40.5749261,-73.9859414
+"Staten Island, NY, USA","sublocality_level_1",436,40.5795317,-74.1502007
+"Wall Street, New York, NY, USA","route",403,40.7060081,-74.0088151
+"Madison Avenue, New York, NY, USA","route",377,40.7408681,-73.9879841
+"Queens, NY, USA","sublocality_level_1",345,40.7500000,-73.8666670
+"Riverside Drive, New York, NY, USA","route",294,40.8159852,-73.9622972
+"Park Avenue, New York, NY, USA","route",293,40.8024409,-73.9407654
+"7th Avenue, New York, NY, USA","route",289,40.7516796,-73.9901898
+"Brooklyn Bridge, Brooklyn Bridge, New York, NY 10038, USA","point_of_interest",246,40.7060855,-73.9968643
+"Greenwich Village, New York, NY, USA","neighborhood",239,40.7335719,-74.0027418
+"Bellevue Hospital Center, 462 1st Avenue, New York, NY 10016, USA","hospital",228,40.7385593,-73.9754061
+"Lexington Avenue, New York, NY, USA","route",209,40.7730080,-73.9603200
+"Gramercy Park, New York, NY, USA","neighborhood",207,40.7367783,-73.9844722
+"Frederick Douglass Boulevard, New York, NY, USA","route",181,40.8165192,-73.9465432
+"New York World Building, New York, NY 10038, USA","premise",168,40.7120000,-74.0053000
+"Grand Central Terminal, 87 E 42nd St, New York, NY 10017, USA","train_station",156,40.7529980,-73.9770560
+"New England Society, 20 West 44th Street #409, New York, NY 10036, USA","point_of_interest",143,40.7554740,-73.9813357
+"Hudson Street, New York, NY, USA","route",142,40.7281277,-74.0072268
+"56 Beaver Street, New York, NY 10004, USA","street_address",133,40.7050156,-74.0103234
+"Times Square, Manhattan, NY 10036, USA","point_of_interest",132,40.7588950,-73.9851310
+"Williamsburg, Brooklyn, NY, USA","neighborhood",131,40.7081156,-73.9570696
+"Chelsea, New York, NY, USA","neighborhood",130,40.7465004,-74.0013737
+"Flushing, Queens, NY, USA","neighborhood",120,40.7674987,-73.8330790
+"Flatbush - Ditmas Park, Brooklyn, NY, USA","neighborhood",105,40.6409217,-73.9624327
+"Fifth Avenue Hotel, 200 5th Avenue, New York, NY 10010, USA","premise",105,40.7421643,-73.9898936
+"Hester Street, New York, NY, USA","route",97,40.7169698,-73.9944555
+"West Street, New York, NY, USA","route",84,40.7222434,-74.0118830
+"Stuyvesant Square, New York, NY 10003, USA","park",83,40.7336111,-73.9840000
+"Rivington Street, New York, NY 10002, USA","route",82,40.7195556,-73.9867495
+"Waldorf Astoria New York, New York, NY 10022, USA","premise",81,40.7565000,-73.9741670
+"SoHo, New York, NY, USA","neighborhood",77,40.7233010,-74.0029883
+"Bleecker Street, New York, NY, USA","route",74,40.7287862,-74.0004671
+"Allen Street, New York, NY 10002, USA","route",72,40.7187154,-73.9904645
+"Harlem River, New York, NY, USA","natural_feature",71,40.8417154,-73.9304711
+"Columbus Avenue, New York, NY, USA","route",70,40.7855140,-73.9729270
+"Central Road, New York, NY 10035, USA","route",69,40.7941784,-73.9210386
+"Varick Street, New York, NY, USA","route",67,40.7238145,-74.0061235
+"East Houston Street, New York, NY, USA","route",66,40.7219188,-73.9855680
+"Fulton Street, New York, NY, USA","route",65,40.6792482,-73.9287068
+"Governors Island, New York, NY, USA","neighborhood",62,40.6894501,-74.0167920
+"St. Patrick's Cathedral, 5th Avenue, New York, NY 10022, USA","church",58,40.7584653,-73.9759927
+"9th Street, New York, NY 10011, USA","train_station",58,40.7342400,-73.9991000
+"Murray Hill, New York, NY, USA","neighborhood",57,40.7478792,-73.9756567
+"Greenpoint, Brooklyn, NY, USA","neighborhood",56,40.7245448,-73.9418603
+"Amsterdam Avenue, New York, NY, USA","route",55,40.8134133,-73.9562303
+"Chatham Square, New York, NY, USA","route",55,40.7136544,-73.9979737
+"East Broadway, New York, NY 10002, USA","subway_station",54,40.7137150,-73.9901730
+"St. Mark’s, 131 East 10th Street, New York, NY 10003, USA","church",53,40.7303309,-73.9871178
+"9th Avenue, New York, NY, USA","route",53,39.1110641,-84.4729347
+"Long Island City, Queens, NY, USA","neighborhood",52,40.7446790,-73.9485424
+"Bushwick, Brooklyn, NY, USA","neighborhood",51,40.6944282,-73.9212858
+"Bowery, New York, NY, USA","neighborhood",50,40.7252570,-73.9903489
+"Battery Park, New York, NY, USA","park",49,40.7032775,-74.0170279
+"Brooklyn Heights, Brooklyn, NY 11201, USA","neighborhood",46,40.6960105,-73.9932872
+"Inwood, New York, NY, USA","neighborhood",45,40.8677145,-73.9212019
+"Waverly Place, New York, NY, USA","route",43,40.7329499,-74.0000717
+"Fort Hamilton, Brooklyn, NY, USA","neighborhood",43,40.6091000,-74.0315000
+"Rosebank, Staten Island, NY, USA","neighborhood",43,40.6131912,-74.0726044
+"Middle Village, Queens, NY, USA","neighborhood",42,40.7173720,-73.8742500
+"Irving Place, New York, NY 10003, USA","route",41,40.7358757,-73.9874033
+"West End Avenue, New York, NY, USA","route",39,40.7869410,-73.9792880
+"Liberty Street, New York, NY, USA","route",37,40.7096803,-74.0116753
+"Macdougal Street, New York, NY, USA","route",37,40.7299739,-74.0005241
+"Atlantic Avenue, New York, NY, USA","route",36,40.6762581,-73.9082993
+"Washington Heights, New York, NY, USA","neighborhood",36,40.8417082,-73.9393554
+"Flatiron Building, 175 5th Avenue, New York, NY 10010, USA","point_of_interest",35,40.7410605,-73.9896986
+"Delancey Street, New York, NY 10002, USA","route",33,40.7173457,-73.9855907
+"Lower East Side, New York, NY, USA","neighborhood",33,40.7150330,-73.9842724
+"Empire State Building, 350 5th Avenue, New York, NY 10118, USA","point_of_interest",32,40.7484405,-73.9856644
+"Ludlow Street, New York, NY 10002, USA","route",32,40.7186876,-73.9890616
+"Mott Street, New York, NY, USA","route",31,40.7190240,-73.9964966
+"Astor Place, New York, NY 10003, USA","route",31,40.7298300,-73.9914232
+"Upper East Side, New York, NY, USA","neighborhood",31,40.7735649,-73.9565551
+"The Woolworth Building, 233 Broadway, New York, NY 10007, USA","point_of_interest",30,40.7124300,-74.0083547
+"LaGuardia Airport (LGA), Queens, NY 11371, USA","airport",29,40.7769271,-73.8739659
+"Whitestone, Queens, NY, USA","neighborhood",28,40.7920449,-73.8095574
+"Lafayette Street, New York, NY, USA","route",28,40.7222848,-73.9971666
+"Sheepshead Bay, Brooklyn, NY, USA","neighborhood",28,40.5975847,-73.9536163
+"Charlton Street, New York, NY, USA","route",28,40.7271145,-74.0055800
+"Canarsie, Brooklyn, NY, USA","neighborhood",28,40.6402325,-73.9060579
+"Barclay Street, New York, NY 10007, USA","route",27,40.7133436,-74.0110289
+"Boston Road, New York, NY, USA","route",26,40.8586578,-73.8676945
+"Metropolitan Life Insurance Company Tower, New York, NY 10010, USA","premise",25,40.7412400,-73.9874000
+"Herald Square, New York, NY 10001, USA","point_of_interest",25,40.7503818,-73.9876239
+"Myrtle Avenue, New York, NY, USA","route",24,40.6998410,-73.9086830
+"Bayside, Queens, NY, USA","neighborhood",24,40.7585569,-73.7654367
+"The Cooper Union, 30 Cooper Square, New York, NY 10003, USA","point_of_interest",23,40.7280822,-73.9916086
+"11th Avenue, New York, NY, USA","route",22,40.7437031,-74.0086560
+"Duane Street, New York, NY, USA","route",22,40.7157703,-74.0065777
+"Bay Ridge, Brooklyn, NY, USA","neighborhood",22,40.6261638,-74.0329499
+"Walgreens, 145 4th Avenue, New York, NY 10003, USA","pharmacy",21,40.7342600,-73.9897630
+"Vesey Street, New York, NY, USA","route",21,40.7131915,-74.0125563
+"Greenwich Street, New York, NY, USA","route",20,40.7221180,-74.0097900
+"Morton Street, New York, NY 10014, USA","route",20,40.7309367,-74.0067722
+"Far Rockaway, Queens, NY, USA","neighborhood",20,40.5998931,-73.7448437
+"Kew Gardens, Queens, NY, USA","neighborhood",20,40.7056950,-73.8272029
+"Little Italy, New York, NY, USA","neighborhood",19,40.7191413,-73.9973273
+"Cobble Hill, Brooklyn, NY, USA","neighborhood",19,40.6865360,-73.9962255
+"Chambers Street, New York, NY, USA","route",19,40.7163028,-74.0109746
+"Bryant Park, New York, NY, USA","park",19,40.7535965,-73.9832326
+"Norfolk Street, New York, NY 10002, USA","route",18,40.7195556,-73.9867495
+"Fraunces Tavern Museum, 54 Pearl Street, New York, NY 10004, USA","museum",18,40.7034329,-74.0112886
+"Beekman Place, New York, NY 10022, USA","route",17,40.7533089,-73.9647957
+"City Island Road, Bronx, NY, USA","route",16,40.8604710,-73.8029474
+"Abingdon Square, New York, NY 10014, USA","route",15,40.7369830,-74.0054442
+"Ed Koch Queensboro Bridge, Ed Koch Queensboro Bridge, New York, NY 10044, USA","point_of_interest",14,40.7567316,-73.9542239
+"Penn Station, New York, NY 10119, USA","train_station",14,40.7505800,-73.9935800
+"Saint Nicholas Avenue, New York, NY, USA","route",13,40.8284542,-73.9423085
+"Midtown East, New York, NY, USA","neighborhood",12,40.7540369,-73.9668408
+"Christopher Street, New York, NY, USA","route",12,40.7333948,-74.0042842
+"East New York, Brooklyn, NY, USA","neighborhood",12,40.6568312,-73.8830701
+"Holland Tunnel, Holland Tunnel, New York, NY 10013, USA","point_of_interest",12,40.7274156,-74.0211159
+"Sutton Place, New York, NY 10022, USA","neighborhood",11,40.7576281,-73.9616980
+"Brighton Beach, Brooklyn, NY, USA","neighborhood",11,40.5780706,-73.9596565
+"Forest Hills, Queens, NY, USA","neighborhood",11,40.7181060,-73.8448469
+"Varick Street, New York, NY, USA","route",11,40.7237782,-74.0061322
+"Columbus Circle, New York, NY, USA","route",10,40.7680441,-73.9823722
+"Williamsburg Bridge, Brooklyn, NY 11249, USA","point_of_interest",10,40.7136902,-73.9726155
+"New York Public Library, New York, NY 10018, USA","library",10,40.7531823,-73.9822534
+"Upper West Side, New York, NY, USA","neighborhood",10,40.7870106,-73.9753676
+"Whitehall Street, New York, NY 10004, USA","route",9,40.7026540,-74.0128983
+"Morningside Heights, New York, NY, USA","neighborhood",9,40.8089564,-73.9624327
+"West Village, New York, NY, USA","neighborhood",9,40.7357810,-74.0035709
+"General Grant National Memorial, West 122nd Street, New York, NY 10027, USA","park",9,40.8134045,-73.9630671
+"Americas Society, 680 Park Avenue, New York, NY 10065, USA","museum",9,40.7687703,-73.9658746
+"Rockaway Beach, Queens, NY 11693, USA","neighborhood",9,40.5867247,-73.8114993
+"Suffolk Street, New York, NY 10002, USA","route",8,40.7193056,-73.9859059
+"Manhattan Bridge, Manhattan Bridge, New York, NY 11201, USA","point_of_interest",7,40.7074959,-73.9907742
+"Chrystie Street, New York, NY 10002, USA","route",6,40.7199134,-73.9929374
+"Jackson Heights, Queens, NY, USA","neighborhood",6,40.7556818,-73.8830701
+"Horatio Street, New York, NY 10014, USA","route",6,40.7387554,-74.0064852
+"Foley Square, New York, NY, USA","route",6,40.7143433,-74.0026137
+"Barrow Street, New York, NY 10014, USA","route",5,40.7316015,-74.0060281
+"Eastern Parkway, Brooklyn, NY, USA","route",4,40.6691843,-73.9372946
+"Bensonhurst, Brooklyn, NY, USA","neighborhood",4,40.6112691,-73.9976946
+"Pershing Square, New York, NY 10168, USA","route",3,40.7519306,-73.9776510
+"Theater District, New York, NY, USA","neighborhood",3,40.7590110,-73.9844722
+"Ozone Park, Queens, NY, USA","neighborhood",3,40.6794072,-73.8507279
+"East Harlem, New York, NY, USA","neighborhood",3,40.7957399,-73.9389213
+"Seventieth Street Playground, New York, NY 10023, USA","park",3,40.7773894,-73.9840130
+"Lower Manhattan, New York, NY, USA","neighborhood",3,40.7230084,-74.0006328
+"World Trade Center, New York, NY, USA","neighborhood",2,40.7127780,-74.0135000
+"Midtown, New York, NY, USA","neighborhood",1,40.7549309,-73.9840195
+"Gracie Mansion Conservancy, 88th Street and E End Ave, New York, NY 10028, USA","museum",1,40.7761101,-73.9432478
+"Washington Square Park, New York, NY, USA","park",1,40.7308228,-73.9973320
+"Borough Park, Brooklyn, NY, USA","neighborhood",1,40.6323009,-73.9888797
+"Bethune Street, New York, NY 10014, USA","route",1,40.7369517,-74.0074722
