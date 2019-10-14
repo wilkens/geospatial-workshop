@@ -1,4 +1,4 @@
-# Edinburgh Master Class 
+# Notre Dame/NovelTM Master Class 
 
 Materials for workshop on geospatial literary methods at Notre Dame, May 2017.
 
